@@ -1,0 +1,7 @@
+data/
+*.crt
+*.csr
+*.key
+*~
+*.bak
+*.swp
